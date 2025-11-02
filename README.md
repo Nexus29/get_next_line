@@ -24,8 +24,8 @@ The goal of this project is to write a function that, when called in a loop, rea
 
 1.  **Clone the Repository:**
     ```bash
-    git clone [https://github.com/Nexus29/42-get_next_line.git](https://github.com/Nexus29/42-get_next_line.git)
-    cd 42-get_next_line
+    git clone git@github.com:Nexus29/get_next_line.git
+    cd get_next_line
     ```
 
 2.  **Compile the Program:**
