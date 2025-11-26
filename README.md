@@ -6,7 +6,7 @@
 
 ### 🌟 Project Overview
 
-This repository contains **get\_next\_line** (GNL), a core project from the **42 Common Core curriculum**.
+This repository contains **get\_next\_line** (GNL).
 
 The goal of this project is to write a function that, when called in a loop, reads a line ending with a newline character (`\n`) from a given file descriptor and returns it. This project is a practical exercise in managing memory, working with file descriptors, and understanding the persistence of `static` variables across function calls.
 
